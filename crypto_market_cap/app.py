@@ -4,7 +4,7 @@ class CryptoRequest(BaseModel):
     symbols: str
 
 crypto_protocol = Protocol("Crypto")
-
+# djf
 @crypto_protocol.on_message(model=CryptoRequest, replies=UAgentResponse)
 async def get_crypto_data(ctx: Context, sender: str, msg: CryptoRequest):
     """Fetch cryptocurrency data from CoinMarketCap API."""
