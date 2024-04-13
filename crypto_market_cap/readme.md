@@ -4,7 +4,6 @@
 
 Welcome to our Hackathon project where we integrate the CoinMarketCap API with Fetch.ai AI Agent technology to create innovative solutions in the world of cryptocurrencies. In this project, we aim to provide real-time data on cryptocurrencies, fetch relevant news, and discover the top trending cryptocurrencies using uAgents.
 
-![Project Image](insert_image_link_here)
 
 ## Problem Statement
 
@@ -60,5 +59,4 @@ We integrated the CoinMarketCap API with uAgents to create two agents:
 [![News and Crypto_data](http://img.youtube.com/vi/1mNh9GcWcNA/0.jpg)](http://www.youtube.com/watch?v=1mNh9GcWcNA "News and Crypto_data")
 
 
-[![Crypto_data and Recommendation](./src/videos/WhatsApp%20Video%202024-04-13%20at%2007.51.04_9fc3e341.mp4)](./src/videos/WhatsApp%20Video%202024-04-13%20at%2007.50.54_a3fb4d172323.mp4)
-
+[![News and Crypto_data](https://youtu.be/XD0RHiPqi2s?si=XUVdYDZm_WVguZqO)](https://youtu.be/XD0RHiPqi2s?si=XUVdYDZm_WVguZqO "News and Crypto_data")
