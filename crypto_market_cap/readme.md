@@ -14,6 +14,23 @@ Our challenge was to integrate the CoinMarketCap API with Fetch.ai AI Agent tech
 
 The CoinMarketCap API is a Text2Text integration that provides comprehensive data on cryptocurrencies. You can learn more about it [here](https://rapidapi.com/zakutynsky/api/CoinMarketCap/).
 
+## User Input
+
+To use our agents, you need to enter a cryptocurrency symbol as input on DeltaV. The symbol should be a valid cryptocurrency symbol like `ETH` for Ethereum, `BTC` for Bitcoin, `XRP` for Ripple, `SOL` for Solana, etc.
+
+Here's an example of how to enter an input:
+
+1. Open DeltaV.
+2. Select the agent you want to use (CryptoDataAgent, CryptoNewsAgent, or TrendingCryptoAgent).
+3. In the input field, enter the cryptocurrency symbol. For example, if you want data on Ethereum, enter `ETH`.
+4. Click on the 'Send' button.
+
+![Input](./src/images/input.jpg)
+
+
+
+The agent will then fetch and display the data related to the cryptocurrency symbol you entered.
+
 ## uAgents Integration
 
 We integrated the CoinMarketCap API with uAgents to create two agents:
@@ -25,17 +42,16 @@ We integrated the CoinMarketCap API with uAgents to create two agents:
 | Bitcoin  | BTC    | 66863.51170428682| 43620642781.30312   | -4.76221334% | 1315925261517.3535   |
 | Ethereum | ETH    | 3210.858383837866| 21614062100.60566   | -8.52252725% | 385530857439.1761    |
 
+![Crypto_data_Output](./src/images/crypto_data.jpg)
+
 2. **CryptoNewsAgent**: Fetches relevant news articles related to the requested cryptocurrency.
 
+![Crypto_News_Output](./src/images/news.jpg)
 
 
-and the thred agent is created using an external API of cryptoNews API
+
+
+and the thred agent is created using an external API of cryptoNews API_key
 3. **TrendingCryptoAgent**: Identifies the top trending cryptocurrencies globally.
 
-## Getting Started
 
-To get started with our project, follow these steps:
-
-1. **Clone this repository.**
-   ```bash
-   git clone https://github.com/your_username/your_repository.git
