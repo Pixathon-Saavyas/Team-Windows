@@ -46,12 +46,14 @@ We integrated the CoinMarketCap API with uAgents to create two agents:
 
 2. **CryptoNewsAgent**: Fetches relevant news articles related to the requested cryptocurrency.
 
-![Crypto_News_Output](./src/images/news.jpg)
+
 
 
 
 
 and the thred agent is created using an external API of cryptoNews API_key
 3. **TrendingCryptoAgent**: Identifies the top trending cryptocurrencies globally.
+
+![Crypto_News_Output](./src/images/news.jpg)
 
 
