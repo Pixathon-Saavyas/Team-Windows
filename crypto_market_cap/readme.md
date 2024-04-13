@@ -54,8 +54,8 @@ We integrated the CoinMarketCap API with uAgents to create two agents:
 
 ## Video Demo
 
-[![News and Crypto_data](https://youtu.be/1mNh9GcWcNA?si=ADt6ZkWLls70fZsl)]
+[![News and Crypto_data](http://img.youtube.com/vi/1mNh9GcWcNA/0.jpg)](http://www.youtube.com/watch?v=1mNh9GcWcNA "News and Crypto_data")
 
 
-[![Crypto_data and Recommendation](./src/videos/WhatsApp%20Video%202024-04-13%20at%2007.51.04_9fc3e341.mp4)]
+[![Crypto_data and Recommendation](./src/videos/WhatsApp%20Video%202024-04-13%20at%2007.51.04_9fc3e341.mp4)](./src/videos/WhatsApp%20Video%202024-04-13%20at%2007.50.54_a3fb4d172323.mp4)
 
