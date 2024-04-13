@@ -60,3 +60,14 @@ We integrated the CoinMarketCap API with uAgents to create two agents:
 
 
 [![News and Crypto_data](./src/images/news.jpg)](https://youtu.be/XD0RHiPqi2s?si=XUVdYDZm_WVguZqO "News and Crypto_data")
+
+
+## BUSINESS USECASE
+
+Our application, integrating CoinMarketCap API and Fetch.ai AI Agent technology, serves as a vital tool for cryptocurrency enthusiasts. Users can input cryptocurrency symbols to fetch real-time data, including price, 24-hour change, and market cap, aiding in informed trading decisions.
+
+Additionally, the application identifies and displays the top 10 trending cryptocurrencies, assisting users in discovering potential investment opportunities.
+
+Lastly, it fetches relevant news articles for the requested cryptocurrencies, helping users stay updated with market trends. The news articles include links for detailed information.
+
+In essence, this application is a comprehensive solution for real-time cryptocurrency data and news.
